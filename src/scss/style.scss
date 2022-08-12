@@ -150,9 +150,16 @@ body {
   align-self: center;
 }
 
+.warning {
+  visibility: hidden
+}
+
+.timer {
+  color: red;
+  font-weight: bold;
+}
 
 @media screen and(max-width:420px) {
-
   .benefits-list,
   .banner-text {
     font-size: 14px;

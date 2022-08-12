@@ -2,7 +2,7 @@ import translations from '../lang/translations';
 
 
 export function startTimer(duration, locale) {
-    let display = document.querySelector('#time')
+    let timerElem = document.querySelector('.timer')
     let timer = duration, minutes, seconds;
     setInterval(function () {
         if (timer >= 0) {
@@ -11,9 +11,11 @@ export function startTimer(duration, locale) {
     
             minutes = minutes < 10 ? minutes : minutes;
             seconds = seconds < 10 ? seconds : seconds;
-    
-            let displayTime = `${minutes} ${translations[locale]["minutes"]} ${seconds} ${translations[locale]["seconds"]}`;
-            display.textContent = translations[locale]["warning"].replace('$', displayTime);
+
+            let warning = document.querySelector('.warning');
+            warning.style.visibility = "visible";
+
+            timerElem.textContent = `${minutes} ${translations[locale]["minutes"]} ${seconds} ${translations[locale]["seconds"]}`;
     
             if (--timer < 0) {
                 window.location.replace("http://google.com");

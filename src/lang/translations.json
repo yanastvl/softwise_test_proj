@@ -11,7 +11,8 @@
         "free": "100% FREE",
         "minutes": "minutes",
         "seconds": "seconds",
-        "warning": "You have $ to take advantage of this offer!"
+        "warning_begin": "You have",
+        "warning_end": "to take advantage of this offer!"
     },
     "ru": {
         "title": "Ускорьте свой мобильный телефон на 50% всего одним касанием!",
@@ -25,6 +26,7 @@
         "free": "100% БЕСПЛАТНО",
         "minutes": "минут",
         "seconds": "секунд",
-        "warning": "У вас есть $, чтобы воспользоваться этим предложением!"
+        "warning_begin": "У вас есть",
+        "warning_end": "чтобы воспользоваться этим предложением!"
     }
 }

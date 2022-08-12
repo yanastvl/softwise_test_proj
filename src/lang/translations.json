@@ -1,0 +1,30 @@
+{
+    "en": {
+        "title": "Boost your mobile by 50% with just 1-tap!",
+        "text": "Magic Cleaner is a utility to speed up your phone and optimize performance. This speed booster make full use of the accessibility service to thoroughly and durably stop the unnecessary process of running apps in background.",
+        "benefits-1": "Clean up the memory and make phone faster!",
+        "benefits-2": "Speed up memory in seconds",
+        "benefits-3": "Besides stopping the running app",
+        "instruction-1": "Tap «Download» button and install Magic Cleaner right now!",
+        "instruction-2": "Open application and enjoy!",
+        "download": "Download",
+        "free": "100% FREE",
+        "minutes": "minutes",
+        "seconds": "seconds",
+        "warning": "You have $ to take advantage of this offer!"
+    },
+    "ru": {
+        "title": "Ускорьте свой мобильный телефон на 50% всего одним касанием!",
+        "text": "Magic Cleaner — это утилита для ускорения вашего телефона и оптимизации производительности. Этот ускоритель в полной мере использует службу специальных возможностей, чтобы полностью и надолго остановить ненужный процесс запуска приложений в фоновом режиме.",
+        "benefits-1": "Очистите память и сделайте телефон быстрее!",
+        "benefits-2": "Ускорьте память за секунды",
+        "benefits-3": "Без остановки работающего приложения",
+        "instruction-1": "Нажмите кнопку «Скачать» и установите Magic Cleaner прямо сейчас!",
+        "instruction-2": "Откройте приложение и наслаждайтесь!",
+        "download": "Скачать",
+        "free": "100% БЕСПЛАТНО",
+        "minutes": "минут",
+        "seconds": "секунд",
+        "warning": "У вас есть $, чтобы воспользоваться этим предложением!"
+    }
+}
